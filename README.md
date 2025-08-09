@@ -14,6 +14,7 @@ A simple and interactive Task Management System built in Python with a Graphical
 💾 Data Persistence – Tasks are saved locally so you don’t lose them after closing the app.
 
 🛠 Technologies Used
+
 Python (Core logic)
 
 Tkinter (GUI)  
