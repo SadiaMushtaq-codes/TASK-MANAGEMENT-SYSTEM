@@ -16,6 +16,6 @@ A simple and interactive Task Management System built in Python with a Graphical
 🛠 Technologies Used\n
 Python (Core logic)\n
 
-Tkinter (GUI)  \n
+Tkinter (GUI)  
 
-JSON / Pickle (Data storage) \n
+JSON / Pickle (Data storage) 
