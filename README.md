@@ -4,7 +4,6 @@ A simple and interactive Task Management System built in Python with a Graphical
 ✨ Features
 
 ➕ Add Tasks – Quickly add new tasks to your list.
-
 🗑 Delete Tasks – Remove completed or unwanted tasks.
 
 ✏ Edit Tasks – Modify tasks without deleting them.
