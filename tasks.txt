@@ -1,0 +1,3 @@
+python|completed
+python|pending
+walking|pending
