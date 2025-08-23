@@ -19,4 +19,4 @@ Python (Core logic)
 
 Tkinter (GUI)  
 
-JSON / Pickle (Data storage) 
+
