@@ -110,5 +110,3 @@ I built this as a **practice project**, but I’m sharing it so that other **new
 ✨ Feel free to fork this project, suggest improvements, or use it as your starting point!
 
 ---
-
-Do you want me to also **add commit history style notes** in the README (like “Day 47 → Added file saving, Day 48 → Added categories…”), so new learners can see the growth journey? That would make it extra inspiring for beginners.
