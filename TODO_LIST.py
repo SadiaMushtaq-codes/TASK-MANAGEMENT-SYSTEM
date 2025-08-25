@@ -69,7 +69,6 @@ def update_status(grouped_tasks):
     save_all(grouped_tasks)
     return grouped_tasks
 def remove_task(grouped_tasks):
-    view_tasks(grouped_tasks)
     task_map= {}
     count = 1
     for category,task_list in grouped_tasks.items():
